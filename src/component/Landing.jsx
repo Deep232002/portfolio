@@ -8,7 +8,7 @@ function Landing() {
       <Header />
       
       {/* Text Section */}
-      <div className="w-full flex flex-col-reverse lg:flex-row items-center sm:justify-between px-10">
+      <div className="w-[100%] flex flex-col-reverse lg:flex-row items-center sm:justify-between px-10">
       <div className="w-full lg:w-[60%] flex flex-col py-5 lg:py-10 px-5 lg:px-10 text-center lg:text-left">
         <div className="text-xl lg:text-2xl mb-2 lg:mb-4">I'm</div>
         <div className="text-4xl lg:text-6xl font-extralight mb-4 lg:mb-8"> Deepak</div>
