@@ -33,7 +33,7 @@ const projects = [
 
 function Projects() {
   return (
-    <div className="container w-[90vw] lg:w-[70vw] mx-auto h-fit my-auto mt-7">
+    <div className="container w-[90vw] lg:w-[70vw] mx-auto h-fit mt-7">
       <div className="self-center text-3xl text-[#FF9800] md:text-5xl p-10 text-center font-extralight mb-8">
         Projects
       </div>

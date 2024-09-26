@@ -32,7 +32,7 @@ function GetInTouch() {
   };
 
   return (
-    <div className="min-h-screen text-white p-8 flex flex-col justify-between">
+    <div className=" text-white p-8 flex flex-col justify-between">
       {/* Header Section */}
       <div className="text-center mb-10">
         <h1 className="self-center text-3xl md:text-5xl p-5 md:p-10 text-center font-extralight mb-8 text-[#FF9800]">
